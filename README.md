@@ -20,9 +20,8 @@ Looking for Entry Level Work.<br>
 [![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mene79)](https://github.com/mene79/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mene79.github.io/)](https://mene79.github.io/)
-	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-hyung-kim-7067717b/)](https://www.linkedin.com/in/jae-hyung-kim-7067717b/)
-	[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-	[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mene79)](https://www.facebook.com/mene79)
+	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-hyung-kim-7067717b/)](https://www.linkedin.com/in/jae-hyung-kim-7067717b/) 
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mene79)](https://www.facebook.com/mene79)
 [![instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/smfc1703/)](https://www.instagram.com/smfc1703/)
 	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehyungkim1202@gmail.com)](mailto:jaehyungkim1202@gmail.com)
 	

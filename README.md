@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mene79)](https://github.com/mene79/github-readme-stats)
 
 <!--
 **mene79/mene79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

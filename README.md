@@ -1,12 +1,11 @@
 <div align="center" dir="auto">
 <p dir="auto">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Dream%20Coder!&amp;&fontSize=40&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmene79&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</p>
-</div>
+<br>
+<br>
 
 <!-- Hi, there! <img src="https://github.com/dl0312/dl0312/raw/master/hi.gif?raw=true" width="25px" style="max-width: 100%;">
 
@@ -16,10 +15,10 @@ Now, I'm studying Cert IV Programming and Software Development at Murdoch Tafe.<
 learning C#, Java, Python in TAFE and self-studying other languages.<br>
 Looking for Entry Level Work.<br> -->
 
-[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mene79)](https://github.com/mene79/github-readme-stats)[![Jae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mene79&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mene79)
 
-<div align="center" dir="auto">
-<p dir="auto">
+[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mene79)](https://github.com/mene79/github-readme-stats)[![Jae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mene79&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mene79)
+<br>
+<br>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mene79.github.io/)](https://mene79.github.io/)
 	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-hyung-kim-7067717b/)](https://www.linkedin.com/in/jae-hyung-kim-7067717b/) 

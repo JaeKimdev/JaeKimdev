@@ -16,8 +16,7 @@ Now, I'm studying Cert IV Programming and Software Development at Murdoch Tafe.<
 learning C#, Java, Python in TAFE and self-studying other languages.<br>
 Looking for Entry Level Work.<br> -->
 
-[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mene79)](https://github.com/mene79/github-readme-stats)
-[![Jae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mene79&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mene79)
+[![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mene79)](https://github.com/mene79/github-readme-stats)[![Jae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mene79&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/mene79)
 
 <div align="center" dir="auto">
 <p dir="auto">

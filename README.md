@@ -49,7 +49,7 @@ Looking for Entry Level Work.<br> -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jae-hyung-kim-7067717b/)](https://www.linkedin.com/in/jae-hyung-kim-7067717b/) 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mene79)](https://www.facebook.com/mene79)
 [![instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/smfc1703/)](https://www.instagram.com/smfc1703/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaehyungkim1202@gmail.com)](mailto:jaehyungkim1202@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaekim.dev@gmail.com)](mailto:jaehyungkim1202@gmail.com)
 
 </p>
 </div>

@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Jae%20Kim&amp;&fontSize=40&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmene79&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeKimdev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 <br>
 
@@ -58,7 +58,7 @@ Looking for Entry Level Work.<br> -->
 
 
 <!--
-**mene79/mene79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JaeKimdev/JaeKimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -9,16 +9,19 @@
 
 <h3>🛠 Tech Stack 🛠</h3>
 <!--Techs that I've used at least once<br><br>-->
-
+📱 Studying to be an iOS developer at <a href="https://github.com/JaeKimdev/TIL/tree/main/Swift">Yagom Academy</a> - 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS-1572B6?style=flat-square&logo=Apple&logoColor=white"/><br><br>
+📚 Languages Learned from TAFE - 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/><br>
+📖 Languages Studied myself - 
 <img src="https://img.shields.io/badge/html-F16629?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496EC?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496EC?style=flat-square&logo=Docker&logoColor=white"/><br><br>
 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>

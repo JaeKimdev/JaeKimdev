@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack 🛠</h3>
 <!--Techs that I've used at least once<br><br>-->
-📱 Studying to be an iOS developer at <a href="https://github.com/JaeKimdev/TIL/tree/main/Swift">Yagom Academy</a> - 
+📱 Studying Swift to be an iOS developer at <a href="https://github.com/JaeKimdev/TIL/tree/main/Swift">Yagom Academy</a> - 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-1572B6?style=flat-square&logo=Apple&logoColor=white"/><br><br>
 📚 Languages Learned from TAFE - 
@@ -37,12 +37,7 @@ elasticsearch <img src="https://img.shields.io/badge/elasticsearch-005571?style=
 
 
 <!-- Hi, there! <img src="https://github.com/dl0312/dl0312/raw/master/hi.gif?raw=true" width="25px" style="max-width: 100%;">
-
-I have seven years Software Testing experience in South Korea.<br>
-
-Now, I'm studying Cert IV Programming and Software Development at Murdoch Tafe.<br>
-learning C#, Java, Python in TAFE and self-studying other languages.<br>
-Looking for Entry Level Work.<br> -->
+-->
 
 
 [![Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeKimdev)](https://github.com/JaeKimdev/github-readme-stats)[![Jae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeKimdev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JaeKimdev)
